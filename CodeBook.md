@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Getting and Cleaning Data - Course Project
 
 # Transformations
